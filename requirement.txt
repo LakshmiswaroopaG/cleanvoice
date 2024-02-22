@@ -1,0 +1,8 @@
+Django
+librosa
+pandas
+numpy
+scipy
+matplotlib
+pydub
+soundfile
